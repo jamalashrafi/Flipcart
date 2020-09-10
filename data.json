@@ -1,0 +1,497 @@
+{
+	"Men" : [{
+
+"Shirts" : [
+        {
+		"company" : "Raymond",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1899,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 40,
+		"avatar" : "",
+		"quantity": 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+       {
+		"company" : "Raymond",
+		"name" : "Men Checkered Formal Shirt",
+		"rate" : 1899,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 40,
+		"avatar" : "",
+		"quantity": 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+        {
+		"company" : "Arrow",
+		"name" : "Men Floral Formal Shirt",
+		"rate" : 2199,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 46,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+       {
+		"company" : "Metronaut",
+		"name" : "Men Formal Spread Shirt",
+		"rate" : 1399,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 50,
+		"avatar" : "",
+		"quantity": 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+       {
+		"company" : "Raymond",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 34,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Peter England",
+		"name" : "Men Checkered Formal Shirt",
+		"rate" : 1299,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 50,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+        {
+		"company" : "Raymond",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 34,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Metronat",
+		"name" : "Men Self Design Formal Shirt",
+		"rate" : 1399,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 50,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Raymond",
+		"name" : "Men Self Design Formal Shirt",
+		"rate" : 1899,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 44,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "5th Anfold",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1199,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 50,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Raymond",
+		"name" : "Men Self Design Formal Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 41,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Louis Philippe",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 30,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Park Avenue",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1799,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 33,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Us. Polo Association",
+		"name" : "Men Printed Formal Shirt",
+		"rate" : 2499,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 40,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Louis philippe",
+		"name" : "Men Self Design Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 30,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Van Heusen",
+		"name" : "Men Stripped Formal Shirt",
+		"rate" : 1899,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 45,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Arrow New York",
+		"name" : "Men Printed Formal Shirt",
+		"rate" : 1199,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 33,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "FabTag - Being Fab",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1390,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 4,
+		"discount" : 59,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	},
+	{
+		"company" : "Accox",
+		"name" : "Men Formal Tie up Shirt",
+		"rate" : 1480,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 63,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	}
+	,{
+		"company" : "Raymond",
+		"name" : "Men Solid Formal Shirt",
+		"rate" : 1999,
+		"size" : ["sm", "lg", "xl", "xxl"],
+		"ratings" : 3,
+		"discount" : 33,
+		"avatar" : "",
+		"quantity" : 5,
+		"category":"Men",
+		"subCategory":"Shirts",
+		"numReveiws":10
+	}
+
+	],
+        "Watches" : [
+       {
+		"name": "NH7924SL04C Yuva Analog Watch - For Men",
+		"rate" : 925,
+		"discount" : 2,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "77106SM01 Analog Watch - For Men",
+		"rate" : 1249,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "Nf7987YL02CJ Analog Watch - For Men",
+		"rate" : 599,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "O-45844PPGW Hybrid Collection Analog Watch - For Men",
+		"rate" : 1475,
+		"discount" : 45,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+        {
+		"name": "38044PP02 Trendies Analog Watch - For Men",
+		"rate" : 2085,
+		"discount" : 5,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "NF2480SM02 Purple Analog Watch - For Men",
+		"rate" : 2595,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "TW00ZR295E Classics Analog Watch - For Men",
+		"rate" : 1295,
+		"discount" : 20,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "TW00ZR295E Classics Analog Watch - For Men",
+		"rate" : 1295,
+		"discount" : 20,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "3120SM02 Analog Watch - For Men",
+		"rate" : 1695,
+		"discount" : 2,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "J R1401 NATE Analog Watch - For Men",
+		"rate" : 11295,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "CH2945 WAKEFIELD Analog Watch - For Men",
+		"rate" : 8795,
+		"discount" : 35,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "NH7987SL01CJ Analog Watch - For Men",
+		"rate" : 599,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "77106SM03 Analog Watch - For Men",
+		"rate" : 1249,
+		"discount" : 10,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "3166KM01 All Nighters Analog Watch - For Men",
+		"rate" : 3250,
+		"discount" : 25,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "1773SL02 Karishma Analog Watch - For Men",
+		"rate" : 1995,
+		"discount" : 19,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "77106NL01 Analog Watch - For Men",
+		"rate" : 1349,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "Nf7987YL02CJ Analog Watch - For Men",
+		"rate" : 599,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "A1486 Enticer Men",
+		"rate" : 1995,
+		"discount" : 20,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "O-45844PPGW Hybrid Collection Analog Watch - For Men",
+		"rate" : 1475,
+		"discount" : 45,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "NH7930PP01CJ Analog Watch - For Men",
+		"rate" : 599,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "8976SL03J Analog Watch - For Men",
+		"rate" : 649,
+		"discount" : 3,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "9915PP56 Minimalists Analog Watch - For Men",
+		"rate" : 950,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "NH7987SM03CJ Analog Watch - For Men",
+		"rate" : 625,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 2,
+		"avatar" : ""
+	},
+	{
+		"name": "FS4542 Watch - For Men",
+		"rate" : 8495,
+		"discount" : 30,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "NG1474SM01 Party Analog Watch - For Men",
+		"rate" : 3395,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "NG3124SL02 Bare Basic Analog Watch - For Men",
+		"rate" : 1595,
+		"discount" : 0,
+		"quantity" : 5,
+		"ratings" : 3,
+		"avatar" : ""
+	},
+	{
+		"name": "FS5504 The Commuter Analog Watch - For Men",
+		"rate" : 9995,
+		"discount" : 40,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	},
+	{
+		"name": "BQ2325 Luthe Analog Watch - For Men",
+		"rate" : 9995,
+		"discount" : 35,
+		"quantity" : 5,
+		"ratings" : 4,
+		"avatar" : ""
+	}
+	
+
+]
+
+}]
+}

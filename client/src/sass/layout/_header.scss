@@ -1,0 +1,65 @@
+.mainHeader {
+  background-color: #2874f0;
+  padding: 1.2rem;
+  display: flex;
+  justify-content: center;
+
+  &__logoLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &__anchor {
+      text-decoration: none;
+      &__imgFlipkart {
+        width: 7rem;
+      }
+      &__imgPlus {
+        width: 1rem;
+      }
+      &__logoMainText {
+        font-size: 1.1rem;
+        font-style: italic;
+        color: $color-white;
+        font-family: $default-font-family;
+      }
+      &__logoSubText {
+        font-size: 1.1rem;
+        color: $color-logo;
+        font-style: italic;
+        font-family: Roboto, Arial, sans-serif;
+      }
+    }
+  }
+}
+
+.subHeader {
+  background-color: $color-white;
+  padding: 1.5rem;
+
+  &__mainMenuUl {
+    display: flex;
+    list-style-type: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: $default-font-family;
+    color: #212121;
+    li {
+      margin: 0 2rem;
+      cursor: pointer;
+    }
+    li > div {
+      display: none;
+    }
+    li:hover > div {
+      display: block;
+    }
+  }
+
+  &__mainMenuNestedDiv {
+    position: absolute;
+    z-index: 100;
+    border: 1px solid black;
+  }
+}
